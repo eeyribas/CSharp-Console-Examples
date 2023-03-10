@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\bin\Debug\GameOfChance.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\bin\Debug\GameOfChance.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\bin\Debug\GameOfChance.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\obj\Debug\GameOfChance.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\obj\Debug\GameOfChance.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\obj\Debug\GameOfChance.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\GameOfChance\obj\Debug\GameOfChance.pdb

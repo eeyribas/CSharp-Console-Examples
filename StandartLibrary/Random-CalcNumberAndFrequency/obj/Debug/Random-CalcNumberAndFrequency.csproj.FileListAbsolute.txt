@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\bin\Debug\Random-CalcNumberAndFrequency.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\bin\Debug\Random-CalcNumberAndFrequency.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\bin\Debug\Random-CalcNumberAndFrequency.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\obj\Debug\Random-CalcNumberAndFrequency.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\obj\Debug\Random-CalcNumberAndFrequency.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\obj\Debug\Random-CalcNumberAndFrequency.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Random-CalcNumberAndFrequency\obj\Debug\Random-CalcNumberAndFrequency.pdb

@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\bin\Debug\Cursor-Color-Lock-Buffer-Window.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\bin\Debug\Cursor-Color-Lock-Buffer-Window.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\bin\Debug\Cursor-Color-Lock-Buffer-Window.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\obj\Debug\Cursor-Color-Lock-Buffer-Window.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\obj\Debug\Cursor-Color-Lock-Buffer-Window.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\obj\Debug\Cursor-Color-Lock-Buffer-Window.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Cursor-Color-Lock-Buffer-Window\obj\Debug\Cursor-Color-Lock-Buffer-Window.pdb

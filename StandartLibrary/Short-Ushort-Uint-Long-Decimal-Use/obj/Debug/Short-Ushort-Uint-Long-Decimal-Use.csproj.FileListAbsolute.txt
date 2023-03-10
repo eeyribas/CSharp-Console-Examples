@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\bin\Debug\Short-Ushort-Uint-Long-Decimal-Use.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\bin\Debug\Short-Ushort-Uint-Long-Decimal-Use.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\bin\Debug\Short-Ushort-Uint-Long-Decimal-Use.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\obj\Debug\Short-Ushort-Uint-Long-Decimal-Use.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\obj\Debug\Short-Ushort-Uint-Long-Decimal-Use.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\obj\Debug\Short-Ushort-Uint-Long-Decimal-Use.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Short-Ushort-Uint-Long-Decimal-Use\obj\Debug\Short-Ushort-Uint-Long-Decimal-Use.pdb

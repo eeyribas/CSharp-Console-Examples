@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\bin\Debug\CalculatingVolumeAndAreaForSphere.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\bin\Debug\CalculatingVolumeAndAreaForSphere.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\bin\Debug\CalculatingVolumeAndAreaForSphere.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\obj\Debug\CalculatingVolumeAndAreaForSphere.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\obj\Debug\CalculatingVolumeAndAreaForSphere.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\obj\Debug\CalculatingVolumeAndAreaForSphere.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\CalculatingVolumeAndAreaForSphere\obj\Debug\CalculatingVolumeAndAreaForSphere.pdb

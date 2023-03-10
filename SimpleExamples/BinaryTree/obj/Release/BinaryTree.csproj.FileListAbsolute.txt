@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\bin\Release\BinaryTree.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\bin\Release\BinaryTree.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\bin\Release\BinaryTree.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\obj\Release\BinaryTree.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\obj\Release\BinaryTree.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\obj\Release\BinaryTree.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\BinaryTree\obj\Release\BinaryTree.pdb

@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\bin\Debug\While-IfElse-SumAndAverageOfNumbers.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\bin\Debug\While-IfElse-SumAndAverageOfNumbers.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\bin\Debug\While-IfElse-SumAndAverageOfNumbers.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\obj\Debug\While-IfElse-SumAndAverageOfNumbers.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\obj\Debug\While-IfElse-SumAndAverageOfNumbers.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\obj\Debug\While-IfElse-SumAndAverageOfNumbers.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-IfElse-SumAndAverageOfNumbers\obj\Debug\While-IfElse-SumAndAverageOfNumbers.pdb

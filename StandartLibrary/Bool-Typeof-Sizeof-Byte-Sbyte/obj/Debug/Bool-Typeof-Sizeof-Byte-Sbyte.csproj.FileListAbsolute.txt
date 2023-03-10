@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\bin\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\bin\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\bin\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\obj\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\obj\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\obj\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Bool-Typeof-Sizeof-Byte-Sbyte\obj\Debug\Bool-Typeof-Sizeof-Byte-Sbyte.pdb

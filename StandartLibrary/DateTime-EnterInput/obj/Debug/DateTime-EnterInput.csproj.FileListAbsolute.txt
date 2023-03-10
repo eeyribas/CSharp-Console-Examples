@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\bin\Debug\DateTime-EnterInput.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\bin\Debug\DateTime-EnterInput.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\bin\Debug\DateTime-EnterInput.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\obj\Debug\DateTime-EnterInput.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\obj\Debug\DateTime-EnterInput.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\obj\Debug\DateTime-EnterInput.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-EnterInput\obj\Debug\DateTime-EnterInput.pdb

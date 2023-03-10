@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\bin\Debug\LinkedList-Show.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\bin\Debug\LinkedList-Show.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\bin\Debug\LinkedList-Show.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\obj\Debug\LinkedList-Show.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\obj\Debug\LinkedList-Show.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\obj\Debug\LinkedList-Show.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\LinkedList-Show\obj\Debug\LinkedList-Show.pdb

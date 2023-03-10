@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\bin\Debug\Ushort-Use.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\bin\Debug\Ushort-Use.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\bin\Debug\Ushort-Use.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\obj\Debug\Ushort-Use.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\obj\Debug\Ushort-Use.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\obj\Debug\Ushort-Use.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Ushort-Use\obj\Debug\Ushort-Use.pdb

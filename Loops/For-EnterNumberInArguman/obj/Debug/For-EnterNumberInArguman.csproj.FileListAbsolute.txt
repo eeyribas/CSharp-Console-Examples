@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\bin\Debug\For-EnterNumberInArguman.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\bin\Debug\For-EnterNumberInArguman.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\bin\Debug\For-EnterNumberInArguman.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\obj\Debug\For-EnterNumberInArguman.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\obj\Debug\For-EnterNumberInArguman.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\obj\Debug\For-EnterNumberInArguman.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-EnterNumberInArguman\obj\Debug\For-EnterNumberInArguman.pdb

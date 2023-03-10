@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\bin\Debug\DateTime-Use.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\bin\Debug\DateTime-Use.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\bin\Debug\DateTime-Use.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\obj\Debug\DateTime-Use.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\obj\Debug\DateTime-Use.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\obj\Debug\DateTime-Use.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\DateTime-Use\obj\Debug\DateTime-Use.pdb
