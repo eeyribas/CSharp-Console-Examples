@@ -5,3 +5,10 @@ D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\ConvertToDouble-SumO
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.csproj.CoreCompileInputs.cache
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.exe
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\bin\Debug\ConvertToDouble-SumOfTwoNumbers.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\bin\Debug\ConvertToDouble-SumOfTwoNumbers.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\bin\Debug\ConvertToDouble-SumOfTwoNumbers.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\ConvertToDouble-SumOfTwoNumbers\obj\Debug\ConvertToDouble-SumOfTwoNumbers.pdb

@@ -19,13 +19,12 @@ namespace While_EscExitsAndEnterTakes
             Console.WriteLine("Esc exits, Enter takes.");
             Console.WriteLine("----------------------");
 
-            char ch;
             string str;
             while (true) {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 str = null;
                 while (true) {
-                    ch = Console.ReadKey().KeyChar;
+                    char ch = Console.ReadKey().KeyChar;
                     if (ch == 27) return;
                     if (ch == 13) break;
                     str += ch;

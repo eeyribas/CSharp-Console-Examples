@@ -12,8 +12,7 @@ namespace While_IfElse_SumAndAverageOfNumbers
         {
             Console.Title = "Esen EYRIBAS";
 
-            int n, N, sum;
-            double average;
+            int N; 
             Console.WriteLine("Sum and Average of integers from 1 to N\n");
             while (true) {
                 Console.Write("Enter the integer N : ");
@@ -28,8 +27,10 @@ namespace While_IfElse_SumAndAverageOfNumbers
                     Console.WriteLine("Please enter an integer...\n");
                 }
             }
-            sum = 0;
-            for (n = 1; n <= N; n++) 
+
+            double average;
+            int sum = 0;
+            for (int n = 1; n <= N; n++) 
                 sum += n;
             average = (double)sum / N;
             Console.WriteLine("\n  Sum : {0}", sum);

@@ -13,15 +13,16 @@ namespace CalculatingRootsOf2ndDegreeEquation
             Console.Title = "Esen EYRIBAS";
 
             Console.WriteLine("Calculating Roots of 2nd Degree Equation\n");
-            double a, b, c, delta, x1, x2;
+            double x1, x2;
             Console.Write("\ta value > ");
-            a = Convert.ToDouble(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine());
             Console.Write("\tb value > ");
-            b = Convert.ToDouble(Console.ReadLine());
+            double b = Convert.ToDouble(Console.ReadLine());
             Console.Write("\tc value > ");
-            c = Convert.ToDouble(Console.ReadLine());
+            double c = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine();
-            delta = b * b - 4 * a * c;
+
+            double delta = b * b - 4 * a * c;
             if (delta < 0) {
                 Console.WriteLine("\tRoot is digital");
             }

@@ -26,8 +26,8 @@ namespace WriteDoubleFloatDecimal
             double zReel = z - (int)z;
             Console.WriteLine("z - (int)z = {0}", zReel);
 
-            double dgr = 7243.555555555555E-25;
-            Console.WriteLine("\n" + dgr + "\n");
+            double value = 7243.555555555555E-25;
+            Console.WriteLine("\n" + value + "\n");
 
             Console.WriteLine(" float.Epsilon      --->  {0}", float.Epsilon);
             Console.WriteLine(" float.Epsilon + 3  --->  {0}", float.Epsilon + 3);

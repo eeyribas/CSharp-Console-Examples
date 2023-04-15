@@ -16,7 +16,6 @@ namespace ToCharArray_ConvertString
             Console.WriteLine("{0}", str);
             Console.WriteLine("String Length = {0}\n", str.Length);
 
-
             char[] array = str.ToCharArray();
             int i, n = array.Length;
             for (i = 0; i < n; i++)

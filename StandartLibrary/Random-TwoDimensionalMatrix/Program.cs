@@ -12,12 +12,10 @@ namespace Random_TwoDimensionalMatrix
         {
             Console.Title = "Esen EYRIBAS";
 
-            int M, N;
-            double[,] a;
             Random r = new Random();
-            M = r.Next(10, 21);
-            N = r.Next(5, 10);
-            a = new double[M, N];
+            int M = r.Next(10, 21);
+            int N = r.Next(5, 10);
+            double[,] a = new double[M, N];
 
             Console.WriteLine("[{0},{1}] dimensional A matrix\n", M, N);
             for (int m = 0; m < M; m++) {

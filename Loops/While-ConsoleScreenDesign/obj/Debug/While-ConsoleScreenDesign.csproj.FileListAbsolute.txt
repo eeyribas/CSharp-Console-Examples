@@ -5,3 +5,10 @@ D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-ConsoleScreenD
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.csproj.CoreCompileInputs.cache
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.exe
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\bin\Debug\While-ConsoleScreenDesign.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\bin\Debug\While-ConsoleScreenDesign.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\bin\Debug\While-ConsoleScreenDesign.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-ConsoleScreenDesign\obj\Debug\While-ConsoleScreenDesign.pdb

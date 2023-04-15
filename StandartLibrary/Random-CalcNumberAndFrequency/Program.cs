@@ -11,12 +11,11 @@ namespace Random_CalcNumberAndFrequency
         static void Main()
         {
             Console.Title = "Esen EYRIBAS";
-            int k, n;
-            int[] a;
+
             Random r = new Random();
-            k = r.Next(10, 21);
-            a = new int[k];
-            n = 1000 * k;
+            int k = r.Next(10, 21);
+            int[] a = new int[k];
+            int n = 1000 * k;
 
             for(int i = 0; i < n; i++) 
                 a[r.Next(k)]++;

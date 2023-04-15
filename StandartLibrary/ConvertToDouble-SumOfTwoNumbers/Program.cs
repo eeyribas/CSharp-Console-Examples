@@ -13,12 +13,11 @@ namespace ConvertToDouble_SumOfTwoNumbers
             Console.Title = "Esen EYRIBAS";
             Console.WriteLine("Addition of Two Real Numbers\n");
             try {
-                double x, y, z;
                 Console.Write("\t1.Number > ");
-                x = Convert.ToDouble(Console.ReadLine());
+                double x = Convert.ToDouble(Console.ReadLine());
                 Console.Write("\t2.Number > ");
-                y = Convert.ToDouble(Console.ReadLine());
-                z = x + y;
+                double y = Convert.ToDouble(Console.ReadLine());
+                double z = x + y;
                 Console.WriteLine("\tResult  = {0}\n", z);
             }
             catch {

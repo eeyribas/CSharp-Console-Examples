@@ -12,8 +12,8 @@ namespace CreateClass_Sphere
         {
             Console.Title = "Esen EYRIBAS";
 
-            Sphere a = new Sphere();
-            a.Calc();
+            Sphere sphere = new Sphere();
+            sphere.Calc();
         }
     }
 }

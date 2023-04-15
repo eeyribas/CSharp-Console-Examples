@@ -5,3 +5,10 @@ D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\WriteLine\obj\Debug\
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\WriteLine\obj\Debug\WriteLine.csproj.CoreCompileInputs.cache
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\WriteLine\obj\Debug\WriteLine.exe
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\WriteLine\obj\Debug\WriteLine.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\bin\Debug\WriteLine.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\bin\Debug\WriteLine.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\bin\Debug\WriteLine.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\obj\Debug\WriteLine.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\obj\Debug\WriteLine.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\obj\Debug\WriteLine.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\WriteLine\obj\Debug\WriteLine.pdb

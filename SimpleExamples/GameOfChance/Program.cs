@@ -12,7 +12,7 @@ namespace GameOfChance
         {
             Console.Title = "Esen EYRIBAS";
 
-            int n, col, gec;
+            int n, col, tmp;
             int[] a = new int[6];
             Random r = new Random();
             Console.WriteLine("Game Of Chance\n");
@@ -45,9 +45,9 @@ namespace GameOfChance
 
                     for (int j = 0; j < i; j++) {
                         if (a[j] > a[i]) {
-                            gec = a[j];
+                            tmp = a[j];
                             a[j] = a[i];
-                            a[i] = gec;
+                            a[i] = tmp;
                         }
                     }
                 }

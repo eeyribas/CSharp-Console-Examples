@@ -10,7 +10,7 @@ namespace For_EnterNumberInArguman
     {
         static void Main(string[] str)
         {
-            double number, sum;
+            double number;
 
             if (str.Length < 2) {
                 Console.WriteLine("Must Have At Least 2 Parameters");
@@ -24,7 +24,7 @@ namespace For_EnterNumberInArguman
                 }
             }
 
-            sum = 0;
+            double sum = 0;
             for (int i = 0; i < str.Length; i++) {
                 number = Convert.ToDouble(str[i]);
                 Console.WriteLine("{0,3}.Number > {1}", i + 1, number);

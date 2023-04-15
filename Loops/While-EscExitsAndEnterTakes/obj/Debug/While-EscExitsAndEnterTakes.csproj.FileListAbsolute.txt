@@ -5,3 +5,10 @@ D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-EscExitsAndEnt
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.csproj.CoreCompileInputs.cache
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.exe
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\bin\Debug\While-EscExitsAndEnterTakes.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\bin\Debug\While-EscExitsAndEnterTakes.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\bin\Debug\While-EscExitsAndEnterTakes.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-EscExitsAndEnterTakes\obj\Debug\While-EscExitsAndEnterTakes.pdb

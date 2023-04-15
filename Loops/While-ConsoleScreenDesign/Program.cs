@@ -13,20 +13,19 @@ namespace While_ConsoleScreenDesign
             Console.Title = "Esen EYRIBAS";
 
             char c = '*';
-            int x, y, xe, ye;
             ConsoleKeyInfo tus;
             Console.CursorVisible = false;
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.Clear();
-            x = Console.WindowWidth / 2;
-            y = Console.WindowHeight / 2;
+            int x = Console.WindowWidth / 2;
+            int y = Console.WindowHeight / 2;
 
             while (true) {
                 Console.SetCursorPosition(x, y);
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write(c);
-                xe = x;
-                ye = y;
+                int xe = x;
+                int ye = y;
                 tus = Console.ReadKey(true);
                 if (tus.Key == ConsoleKey.Escape) 
                     break;
