@@ -12,27 +12,28 @@ namespace DateTime_EnterInput
         {
             Console.Title = "Esen EYRIBAS";
 
-            DateTime dt = new DateTime(2007, 10, 26);
-            Console.WriteLine("          dt : " + dt);
-            dt = dt.AddYears(1);
-            dt = dt.AddMonths(5);
-            dt = dt.AddDays(3);
-            dt = dt.AddMinutes(30);
-            dt = dt.AddSeconds(15);
-            Console.WriteLine("      Add dt : {0}", dt);
-            TimeSpan hafta = new TimeSpan(7, 0, 0, 0);
-            Console.WriteLine("      1 Week : {0}", hafta);
-            dt = dt - hafta;
-            Console.WriteLine(" Before Week : {0}\n", dt);
+            DateTime dateTime = new DateTime(2007, 10, 26);
+            Console.WriteLine("          DateTime : " + dateTime);
+            dateTime = dateTime.AddYears(1);
+            dateTime = dateTime.AddMonths(5);
+            dateTime = dateTime.AddDays(3);
+            dateTime = dateTime.AddMinutes(30);
+            dateTime = dateTime.AddSeconds(15);
+            Console.WriteLine("      Add DateTime : {0}", dateTime);
 
-            dt = DateTime.Now;
-            Console.WriteLine("          dt : {0}", dt);
-            Console.WriteLine("     dt.Date : {0}", dt.Date);
-            Console.WriteLine("      dt.Day : {0}", dt.Day);
-            Console.WriteLine("dt.DayOfWeek : {0}", dt.DayOfWeek);
-            Console.WriteLine("dt.DayOfYear : {0}", dt.DayOfYear);
-            Console.WriteLine("    dt.Ticks : {0}", dt.Ticks);
-            Console.WriteLine("dt.TimeOfDay : {0}\n", dt.TimeOfDay);
+            TimeSpan timeSpan = new TimeSpan(7, 0, 0, 0);
+            Console.WriteLine("            1 Week : {0}", timeSpan);
+            dateTime -= timeSpan;
+            Console.WriteLine("       Before Week : {0}\n", dateTime);
+
+            dateTime = DateTime.Now;
+            Console.WriteLine("          DateTime : {0}", dateTime);
+            Console.WriteLine("     DateTime.Date : {0}", dateTime.Date);
+            Console.WriteLine("      DateTime.Day : {0}", dateTime.Day);
+            Console.WriteLine("DateTime.DayOfWeek : {0}", dateTime.DayOfWeek);
+            Console.WriteLine("DateTime.DayOfYear : {0}", dateTime.DayOfYear);
+            Console.WriteLine("    DateTime.Ticks : {0}", dateTime.Ticks);
+            Console.WriteLine("DateTime.TimeOfDay : {0}\n", dateTime.TimeOfDay);
 
             Console.Write("Press a key to exit...");
             Console.ReadKey(true);

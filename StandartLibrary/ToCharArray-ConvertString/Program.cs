@@ -17,21 +17,21 @@ namespace ToCharArray_ConvertString
             Console.WriteLine("String Length = {0}\n", str.Length);
 
             char[] array = str.ToCharArray();
-            int i, n = array.Length;
-            for (i = 0; i < n; i++)
+            int n = array.Length;
+            for (int i = 0; i < n; i++)
                 Console.Write(array[i]);
             Console.WriteLine("\nArray Length = {0}\n", n);
 
             array = str.ToCharArray(7, 11);
             n = array.Length;
-            for (i = 0; i < n; i++)
+            for (int i = 0; i < n; i++)
                 Console.Write(array[i]);
             Console.WriteLine("\nArray Length = {0}\n", n);
 
             array = str.ToCharArray();
-            string s = new string(array);
-            Console.WriteLine("{0}", s);
-            Console.WriteLine("String Length = {0}\n", s.Length);
+            string copyStr = new string(array);
+            Console.WriteLine("{0}", copyStr);
+            Console.WriteLine("String Length = {0}\n", copyStr.Length);
 
             Console.Write("Press a key to exit...");
             Console.ReadKey();

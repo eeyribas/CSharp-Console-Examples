@@ -12,37 +12,38 @@ namespace DateTime_Use
         {
             Console.Title = "Esen EYRIBAS";
 
-            DateTime dt = new DateTime(2012, 6, 23, 16, 5, 7, 999);
-            string str = String.Format("{0:yy yyyy}", dt);
+            DateTime dateTime = new DateTime(2012, 6, 23, 16, 5, 7, 999);
+            string str = String.Format("{0:yy yyyy}", dateTime);
+
             Console.WriteLine(str);
-            str = String.Format("{0:MM MMMM}", dt);
+            str = String.Format("{0:MM MMMM}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:dd dddd}", dt);
+            str = String.Format("{0:dd dddd}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:hh HH}", dt);
+            str = String.Format("{0:hh HH}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:m mm}", dt);
+            str = String.Format("{0:m mm}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:s ss}", dt);
+            str = String.Format("{0:s ss}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:fff}", dt);
+            str = String.Format("{0:fff}", dateTime);
             Console.WriteLine(str + "\n");
 
-            str = String.Format("{0:t}", dt);
+            str = String.Format("{0:t}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:d}", dt);
+            str = String.Format("{0:d}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:T}", dt);
+            str = String.Format("{0:T}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:D}", dt);
+            str = String.Format("{0:D}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:f}", dt);
+            str = String.Format("{0:f}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:F}", dt);
+            str = String.Format("{0:F}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:g}", dt);
+            str = String.Format("{0:g}", dateTime);
             Console.WriteLine(str);
-            str = String.Format("{0:G}", dt);
+            str = String.Format("{0:G}", dateTime);
             Console.WriteLine(str + "\n");
 
             Console.Write("Press a key to exit...");

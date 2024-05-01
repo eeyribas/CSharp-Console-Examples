@@ -5,3 +5,10 @@ D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-DateTime\obj\D
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-DateTime\obj\Debug\While-DateTime.csproj.CoreCompileInputs.cache
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-DateTime\obj\Debug\While-DateTime.exe
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\While-DateTime\obj\Debug\While-DateTime.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\bin\Debug\While-DateTime.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\bin\Debug\While-DateTime.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\bin\Debug\While-DateTime.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\obj\Debug\While-DateTime.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\obj\Debug\While-DateTime.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\obj\Debug\While-DateTime.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-DateTime\obj\Debug\While-DateTime.pdb

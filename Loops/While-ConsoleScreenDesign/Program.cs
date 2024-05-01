@@ -20,12 +20,14 @@ namespace While_ConsoleScreenDesign
             int x = Console.WindowWidth / 2;
             int y = Console.WindowHeight / 2;
 
-            while (true) {
+            while (true) 
+            {
                 Console.SetCursorPosition(x, y);
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write(c);
                 int xe = x;
                 int ye = y;
+
                 tus = Console.ReadKey(true);
                 if (tus.Key == ConsoleKey.Escape) 
                     break;
@@ -49,6 +51,7 @@ namespace While_ConsoleScreenDesign
                     y = Console.WindowHeight - 1;
                 else if (y > Console.WindowHeight - 1) 
                     y = 0;
+
                 Console.SetCursorPosition(xe, ye);
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.Write(c);

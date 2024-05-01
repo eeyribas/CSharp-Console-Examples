@@ -20,15 +20,21 @@ namespace While_EscExitsAndEnterTakes
             Console.WriteLine("----------------------");
 
             string str;
-            while (true) {
+            while (true) 
+            {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 str = null;
-                while (true) {
+
+                while (true) 
+                {
                     char ch = Console.ReadKey().KeyChar;
-                    if (ch == 27) return;
-                    if (ch == 13) break;
+                    if (ch == 27) 
+                        return;
+                    if (ch == 13) 
+                        break;
                     str += ch;
                 }
+
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine(" ---> " + str);
                 Console.Beep(1500, 250); 

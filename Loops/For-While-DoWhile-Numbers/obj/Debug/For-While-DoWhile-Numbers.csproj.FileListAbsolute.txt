@@ -5,3 +5,10 @@ D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-While-DoWhile-Nu
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.csproj.CoreCompileInputs.cache
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.exe
 D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\bin\Debug\For-While-DoWhile-Numbers.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\bin\Debug\For-While-DoWhile-Numbers.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\bin\Debug\For-While-DoWhile-Numbers.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\For-While-DoWhile-Numbers\obj\Debug\For-While-DoWhile-Numbers.pdb

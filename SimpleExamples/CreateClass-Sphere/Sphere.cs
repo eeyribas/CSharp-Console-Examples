@@ -12,10 +12,12 @@ namespace CreateClass_Sphere
 
         void EnterRadius()
         {
-            while (true) {
+            while (true) 
+            {
                 Console.Write("   Sphere radius : ");
                 if (double.TryParse(Console.ReadLine(), out r)) 
                     break;
+
                 Console.WriteLine("The value you entered is not a real number.");
                 Console.WriteLine("Please enter real number...\n");
             }
@@ -26,7 +28,7 @@ namespace CreateClass_Sphere
             return 4 * Math.PI * Math.Pow(r, 2);
         }
 
-        double Valume()
+        double Volume()
         {
             return (r / 3) * Area();
         }
@@ -35,10 +37,12 @@ namespace CreateClass_Sphere
         {
             Console.Write("Calculating Area and Volume of a Sphere\n");
             Console.WriteLine("Pi = ( {0} )\n", Math.PI);
+
             EnterRadius();
             double x = Area();
             Console.WriteLine("Sphere Area : {0:F6}", x);
-            x = Valume();
+
+            x = Volume();
             Console.WriteLine("      Sphere Volume : {0:F6}", x);
 
             Console.Write("\nPress a key to exit...");

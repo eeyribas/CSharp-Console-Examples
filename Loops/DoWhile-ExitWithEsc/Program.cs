@@ -12,13 +12,14 @@ namespace DoWhile_ExitWithEsc
         static void Main()
         {
             Console.Title = "Esen EYRIBAS";
-
             Console.WriteLine("Exit the program with Esc");
+
             ConsoleKeyInfo key;
-            do {
+            do 
+            {
                 key = Console.ReadKey(true);
-                Console.WriteLine("{0}.{1}.{2}.{3}",
-                    key.KeyChar, (int)key.KeyChar, key.Key, key.Modifiers);
+                Console.WriteLine("{0}.{1}.{2}.{3}", key.KeyChar, (int)key.KeyChar, key.Key, 
+                                  key.Modifiers);
             } while (key.KeyChar != 27);
             Thread.Sleep(1000);
         }

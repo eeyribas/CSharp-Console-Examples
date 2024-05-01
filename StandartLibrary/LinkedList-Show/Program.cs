@@ -30,7 +30,8 @@ namespace LinkedList_Show
             LinkedListNode<int> linkedListNode;
             Console.WriteLine("Linked List Length  = {0}", linkedList.Count);
             Console.Write("Linked List Values = ");
-            for (linkedListNode = linkedList.First; linkedListNode != null; linkedListNode = linkedListNode.Next) {
+            for (linkedListNode = linkedList.First; linkedListNode != null; linkedListNode = linkedListNode.Next) 
+            {
                 if (linkedListNode != linkedList.First) 
                     Console.Write(" , ");
                 Console.Write(linkedListNode.Value);

@@ -15,6 +15,7 @@ namespace CalculatingAreaOfTheCircle
             Console.WriteLine("Calculating Circle");
             Console.WriteLine("Pi Number = {0}", Math.PI);
             Console.Write("\nr : ");
+
             double r = Convert.ToDouble(Console.ReadLine());
             double env = 2 * Math.PI * r;
             double area = Math.PI * r * r;

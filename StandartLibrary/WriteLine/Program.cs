@@ -20,10 +20,9 @@ namespace WriteLine
             Console.WriteLine(str);
             Console.WriteLine(str);
             Console.WriteLine(str + "\n");
-
             Console.WriteLine("{0}\n{0}\n{0}\n", str);
 
-            for (int n = 0; n < 5; n++) 
+            for (int i = 0; i < 5; i++) 
                 Console.WriteLine(str);
             Console.WriteLine();
 

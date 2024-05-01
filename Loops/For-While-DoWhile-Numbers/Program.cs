@@ -11,15 +11,17 @@ namespace For_While_DoWhile_Numbers
         static void Main()
         {
             Console.Title = "Esen EYRIBAS";
-
             const int N = 20;
             int n;
+
             Console.Write("Numbers : ");
-            for (n = 1; n <= N; n++){
+            for (n = 1; n <= N; n++)
+            {
                 if (n == 5 || n == 8 || n == 13)
                     continue;
                 else if (n == 16) 
                     break;
+
                 Console.Write("{0} ", n);
             }
 
@@ -31,12 +33,14 @@ namespace For_While_DoWhile_Numbers
                     continue;
                 else if (n == 16) 
                     break;
+
                 Console.Write("{0} ", n);
             }
 
             Console.Write("\n\nNumbers : ");
             n = 0;
-            do {
+            do 
+            {
                 n++;
                 if (n == 5 || n == 8 || n == 13)
                     continue;

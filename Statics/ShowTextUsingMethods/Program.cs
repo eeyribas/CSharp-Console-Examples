@@ -18,8 +18,8 @@ namespace ShowTextUsingMethods
         static void Write1(string[] array)
         {
             Console.Write("Data --->");
-            foreach (string s in array)
-                Console.Write(" {0}", s);
+            foreach (string str in array)
+                Console.Write(" {0}", str);
             Console.WriteLine("\n");
         }
 
@@ -35,8 +35,7 @@ namespace ShowTextUsingMethods
         {
             Console.Title = "Esen EYRIBAS";
 
-            string[] data = {"Hasan", "Ahmet", "Serdar", "Arif",
-                              "Bahadır", "Cemal", "Sedat"};
+            string[] data = {"Hasan", "Ahmet", "Serdar", "Arif", "Bahadır", "Cemal", "Sedat"};
             Write1(data);
             Write2(data);
             Wait();

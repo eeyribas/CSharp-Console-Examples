@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\bin\Debug\BackgrndColor-ForegrndColor.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\bin\Debug\BackgrndColor-ForegrndColor.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\bin\Debug\BackgrndColor-ForegrndColor.pdb
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\obj\Debug\BackgrndColor-ForegrndColor.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\obj\Debug\BackgrndColor-ForegrndColor.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\obj\Debug\BackgrndColor-ForegrndColor.exe
+D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\BackgrndColor-ForegrndColor\obj\Debug\BackgrndColor-ForegrndColor.pdb

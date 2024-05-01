@@ -31,10 +31,12 @@ namespace BinaryTree
                     data = value
                 };
 
-                if (this.rootNode == null) {
+                if (this.rootNode == null) 
+                {
                     this.rootNode = newNode;
                 }
-                else {
+                else 
+                {
                     BinaryTreeNode tmpNode;
                     tmpNode = rootNode;
                 }

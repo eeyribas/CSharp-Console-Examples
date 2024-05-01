@@ -12,20 +12,24 @@ namespace For_EnterNumberInArguman
         {
             double number;
 
-            if (str.Length < 2) {
+            if (str.Length < 2) 
+            {
                 Console.WriteLine("Must Have At Least 2 Parameters");
                 return;
             }
 
-            for (int i = 0; i < str.Length; i++) {
-                if (!double.TryParse(str[i], out number)) {
+            for (int i = 0; i < str.Length; i++) 
+            {
+                if (!double.TryParse(str[i], out number)) 
+                {
                     Console.WriteLine("Parameters Must Be Real Numbers");
                     return;
                 }
             }
 
             double sum = 0;
-            for (int i = 0; i < str.Length; i++) {
+            for (int i = 0; i < str.Length; i++) 
+            {
                 number = Convert.ToDouble(str[i]);
                 Console.WriteLine("{0,3}.Number > {1}", i + 1, number);
                 sum += number;

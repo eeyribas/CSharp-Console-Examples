@@ -14,14 +14,15 @@ namespace Stopwatch_Use
         {
             Console.Title = "Esen EYRIBAS";
 
+            Stopwatch stopwatch = new Stopwatch();
             int N = 5;
-            Stopwatch sw = new Stopwatch();
-            for (int n = 0; n < N; n++) {
-                sw.Start();
+            for (int n = 0; n < N; n++) 
+            {
+                stopwatch.Start();
                 Thread.Sleep(1000);
-                sw.Stop();
-                Console.WriteLine("Duration: {0} ms ---> {1}", sw.ElapsedMilliseconds, sw.ElapsedTicks);
-                sw.Reset();
+                stopwatch.Stop();
+                Console.WriteLine("Duration: {0} ms ---> {1}", stopwatch.ElapsedMilliseconds, stopwatch.ElapsedTicks);
+                stopwatch.Reset();
             }
 
             Console.Write("\nPress any key to exit...");
