@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\bin\Debug\MultidimensionalArray.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\bin\Debug\MultidimensionalArray.exe
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\bin\Debug\MultidimensionalArray.pdb
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\obj\Debug\MultidimensionalArray.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\obj\Debug\MultidimensionalArray.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\obj\Debug\MultidimensionalArray.exe
+D:\BACKUP\GitHub Calismalar\C#-Console\Array\MultidimensionalArray\obj\Debug\MultidimensionalArray.pdb

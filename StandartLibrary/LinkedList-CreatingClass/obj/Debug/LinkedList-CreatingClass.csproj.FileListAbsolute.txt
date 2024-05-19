@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\bin\Debug\LinkedList-CreatingClass.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\bin\Debug\LinkedList-CreatingClass.exe
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\bin\Debug\LinkedList-CreatingClass.pdb
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\obj\Debug\LinkedList-CreatingClass.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\obj\Debug\LinkedList-CreatingClass.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\obj\Debug\LinkedList-CreatingClass.exe
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-CreatingClass\obj\Debug\LinkedList-CreatingClass.pdb

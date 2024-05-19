@@ -1,0 +1,7 @@
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\bin\Debug\LinkedList-ArrayCopyAndPrint.exe.config
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\bin\Debug\LinkedList-ArrayCopyAndPrint.exe
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\bin\Debug\LinkedList-ArrayCopyAndPrint.pdb
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\obj\Debug\LinkedList-ArrayCopyAndPrint.csproj.AssemblyReference.cache
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\obj\Debug\LinkedList-ArrayCopyAndPrint.csproj.CoreCompileInputs.cache
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\obj\Debug\LinkedList-ArrayCopyAndPrint.exe
+D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\LinkedList-ArrayCopyAndPrint\obj\Debug\LinkedList-ArrayCopyAndPrint.pdb
