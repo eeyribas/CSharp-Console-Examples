@@ -19,11 +19,10 @@ namespace While_EscExitsAndEnterTakes
             Console.WriteLine("Esc exits, Enter takes.");
             Console.WriteLine("----------------------");
 
-            string str;
             while (true) 
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
-                str = null;
+                string str = null;
 
                 while (true) 
                 {

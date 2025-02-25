@@ -8,9 +8,9 @@ namespace CreateClass_Sphere
 {
     class Sphere
     {
-        double r;
+        private double r;
 
-        void EnterRadius()
+        private void EnterRadius()
         {
             while (true) 
             {
@@ -23,12 +23,12 @@ namespace CreateClass_Sphere
             }
         }
 
-        double Area()
+        private double Area()
         {
             return 4 * Math.PI * Math.Pow(r, 2);
         }
 
-        double Volume()
+        private double Volume()
         {
             return (r / 3) * Area();
         }

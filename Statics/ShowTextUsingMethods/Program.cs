@@ -14,7 +14,6 @@ namespace ShowTextUsingMethods
             Console.ReadKey();
         }
 
-
         static void Write1(string[] array)
         {
             Console.Write("Data --->");

@@ -1,7 +1,0 @@
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\bin\Debug\CalcRootsOf2ndDegreeEquation.exe.config
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\bin\Debug\CalcRootsOf2ndDegreeEquation.exe
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\bin\Debug\CalcRootsOf2ndDegreeEquation.pdb
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\obj\Debug\CalcRootsOf2ndDegreeEquation.csproj.AssemblyReference.cache
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\obj\Debug\CalcRootsOf2ndDegreeEquation.csproj.CoreCompileInputs.cache
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\obj\Debug\CalcRootsOf2ndDegreeEquation.exe
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\SimpleExamples\CalcRootsOf2ndDegreeEquation\obj\Debug\CalcRootsOf2ndDegreeEquation.pdb

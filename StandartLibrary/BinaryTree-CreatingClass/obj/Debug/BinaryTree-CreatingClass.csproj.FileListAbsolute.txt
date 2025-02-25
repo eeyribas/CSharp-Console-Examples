@@ -1,6 +1,0 @@
-D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\BinaryTree-CreatingClass\bin\Debug\BinaryTree-CreatingClass.exe.config
-D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\BinaryTree-CreatingClass\bin\Debug\BinaryTree-CreatingClass.exe
-D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\BinaryTree-CreatingClass\bin\Debug\BinaryTree-CreatingClass.pdb
-D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\BinaryTree-CreatingClass\obj\Debug\BinaryTree-CreatingClass.csproj.CoreCompileInputs.cache
-D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\BinaryTree-CreatingClass\obj\Debug\BinaryTree-CreatingClass.exe
-D:\BACKUP\GitHub Calismalar\C#-Console\StandartLibrary\BinaryTree-CreatingClass\obj\Debug\BinaryTree-CreatingClass.pdb

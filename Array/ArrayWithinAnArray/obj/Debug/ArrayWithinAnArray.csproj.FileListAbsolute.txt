@@ -1,7 +1,0 @@
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\bin\Debug\ArrayWithinAnArray.exe.config
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\bin\Debug\ArrayWithinAnArray.exe
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\bin\Debug\ArrayWithinAnArray.pdb
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\obj\Debug\ArrayWithinAnArray.csproj.AssemblyReference.cache
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\obj\Debug\ArrayWithinAnArray.csproj.CoreCompileInputs.cache
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\obj\Debug\ArrayWithinAnArray.exe
-D:\BACKUP\GitHub Calismalar\C#-Console\Array\ArrayWithinAnArray\obj\Debug\ArrayWithinAnArray.pdb

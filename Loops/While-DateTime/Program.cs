@@ -20,7 +20,8 @@ namespace While_DateTime
                 Console.WriteLine("{0} ---> {1}", ti.TimeOfDay, ti.ToFileTime());
                 Thread.Sleep(1000);
                 ti = DateTime.Now;
-                if (ti >= tf) break;
+                if (ti >= tf) 
+                    break;
             }
 
             Console.Write("Press a key to exit...");

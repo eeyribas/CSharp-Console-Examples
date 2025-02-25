@@ -1,7 +1,0 @@
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\bin\Debug\While-IfElse-SumAndAveOfNumbers.exe.config
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\bin\Debug\While-IfElse-SumAndAveOfNumbers.exe
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\bin\Debug\While-IfElse-SumAndAveOfNumbers.pdb
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\obj\Debug\While-IfElse-SumAndAveOfNumbers.csproj.AssemblyReference.cache
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\obj\Debug\While-IfElse-SumAndAveOfNumbers.csproj.CoreCompileInputs.cache
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\obj\Debug\While-IfElse-SumAndAveOfNumbers.exe
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\Loops\While-IfElse-SumAndAveOfNumbers\obj\Debug\While-IfElse-SumAndAveOfNumbers.pdb

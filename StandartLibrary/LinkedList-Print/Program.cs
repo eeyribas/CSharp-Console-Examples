@@ -39,7 +39,6 @@ namespace LinkedList_Print
         {
             LinkedListNode<char> linkedListNode;
             linkedListNode = linkedList.First;
-
             while (linkedListNode != null)
             {
                 Console.WriteLine(linkedListNode.Value.ToString());

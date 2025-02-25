@@ -37,8 +37,7 @@ namespace BinaryTree
                 }
                 else 
                 {
-                    BinaryTreeNode tmpNode;
-                    tmpNode = rootNode;
+                    BinaryTreeNode tmpNode = rootNode;
                 }
             }
         }

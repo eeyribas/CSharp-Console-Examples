@@ -18,9 +18,9 @@ namespace DoWhile_ExitWithEsc
             do 
             {
                 key = Console.ReadKey(true);
-                Console.WriteLine("{0}.{1}.{2}.{3}", key.KeyChar, (int)key.KeyChar, key.Key, 
-                                  key.Modifiers);
+                Console.WriteLine("{0}.{1}.{2}.{3}", key.KeyChar, (int)key.KeyChar, key.Key, key.Modifiers);
             } while (key.KeyChar != 27);
+
             Thread.Sleep(1000);
         }
     }

@@ -1,7 +1,0 @@
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\bin\Debug\Short-Ushort-Uint-Long-Decimal.exe.config
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\bin\Debug\Short-Ushort-Uint-Long-Decimal.exe
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\bin\Debug\Short-Ushort-Uint-Long-Decimal.pdb
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\obj\Debug\Short-Ushort-Uint-Long-Decimal.csproj.AssemblyReference.cache
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\obj\Debug\Short-Ushort-Uint-Long-Decimal.csproj.CoreCompileInputs.cache
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\obj\Debug\Short-Ushort-Uint-Long-Decimal.exe
-D:\BACKUP\GitHub Calismalar\C#-Programming-Console-Examples\StandartLibrary\Short-Ushort-Uint-Long-Decimal\obj\Debug\Short-Ushort-Uint-Long-Decimal.pdb
